@@ -1,5 +1,6 @@
 
-ue default navmeshvolume must be also place in the level
+1: ue default navmeshvolume must be also place in the level 
+2: moveto's target maybe only Actor
 
 
 This plug-in brings 3D navigation to Unreal Engine. 
